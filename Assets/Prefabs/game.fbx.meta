@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: 6cf3338137f3fca4b8a82c99f5a4ae7e
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Key
+    second: {fileID: 2100000, guid: 349b2d7b7ba27234ab66e030c9586ab0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Key.12
+    second: {fileID: 2100000, guid: 70c17b72ca74e3242ae3e4c6b471f95d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Key.14
+    second: {fileID: 2100000, guid: 8da63ec798dac38469ecc949a7c17f8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Key.15
+    second: {fileID: 2100000, guid: 31b79026c1af0614dab28c8543b00977, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Key.18
+    second: {fileID: 2100000, guid: 6d2eb29e9635a4e489c214ef28303a7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Key.19
+    second: {fileID: 2100000, guid: 1ef8b7db6c0b27a48ac1737cf968c3fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Key.2
+    second: {fileID: 2100000, guid: 7cf399d508f720a47bec295c8b56ca9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Key.20
+    second: {fileID: 2100000, guid: a9a1a59aa4eb1c94883130df38ed01c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Key.22
+    second: {fileID: 2100000, guid: c37abbbc24e95274db022540620bfd17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Key.23
+    second: {fileID: 2100000, guid: d5f9bfbb4bf2b4d48ae117a6529c1fdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Key.26
+    second: {fileID: 2100000, guid: f99465d7170dbe4429ecf633303d3063, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Key.27
+    second: {fileID: 2100000, guid: fc0f1000caa6d434f84e3508c938bad3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Key.3
+    second: {fileID: 2100000, guid: 979551a1706bf244ab43edf181c0955a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Key.30
+    second: {fileID: 2100000, guid: 21277962b8c2cdd44b6ce8b109025bde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Key.31
+    second: {fileID: 2100000, guid: 49e78d152ac96114ea75c66d90df9bb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Key.4
+    second: {fileID: 2100000, guid: 8232899c890603b49b5996338bc97a89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Key.5
+    second: {fileID: 2100000, guid: e5486b1ab083eb74c896830515865ff7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Key.8
+    second: {fileID: 2100000, guid: f1a23f39d21384c45abd759477ced89c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Key.9
+    second: {fileID: 2100000, guid: e6123f281e768464ab595b899ba1401a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard
+    second: {fileID: 2100000, guid: 34f6d411e83c31f47b1d23d1be1a9bb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.1
+    second: {fileID: 2100000, guid: 3cc6f1f0b508a8a46b6dff72d3f71096, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.10
+    second: {fileID: 2100000, guid: b82f8f87b0018b34b8f16088a0477220, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.12
+    second: {fileID: 2100000, guid: fd742e6adf72310479d6271d8965e720, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.13
+    second: {fileID: 2100000, guid: 60807a9fc75c7794d8c800ce28057524, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.15
+    second: {fileID: 2100000, guid: 1189143c650f36e41b743b2ecdb7a49d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.17
+    second: {fileID: 2100000, guid: fab1ff6e111c52349ad95f4babe8f9b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.21
+    second: {fileID: 2100000, guid: 0373b579dcc8e364d8863c4b2d4c0e9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.23
+    second: {fileID: 2100000, guid: ca4b4f43a84e0154bb93bda337ba2089, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.24
+    second: {fileID: 2100000, guid: 15940c38f7d711b4a95ebc922a230e8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.25
+    second: {fileID: 2100000, guid: b62b72df3f65844468ecee2b87140c6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.29
+    second: {fileID: 2100000, guid: b409075abf3c1764ba3cb7c6a162257b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.31
+    second: {fileID: 2100000, guid: abb5417454b4e5f4ebadc3b97da3284b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.33
+    second: {fileID: 2100000, guid: 8d95437b2c7c4b94f8211fae1aa54e4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.35
+    second: {fileID: 2100000, guid: 1e7b4d9d987c79841a0034f279499fa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.37
+    second: {fileID: 2100000, guid: f26f6189d7455a140b624ad2c7c530a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.39
+    second: {fileID: 2100000, guid: bbd60a1c8e9d233478e75fac84593675, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.40
+    second: {fileID: 2100000, guid: 307a9751998a9a4479fb8065be8eb2bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.41
+    second: {fileID: 2100000, guid: 40b582240814aa64494303e49f018e9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.43
+    second: {fileID: 2100000, guid: e541730d678f81e43b5cec98b019b36d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.45
+    second: {fileID: 2100000, guid: 89de41dbc1dc16741b4b016c4dadc884, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.49
+    second: {fileID: 2100000, guid: f9f5f02fb97a1bb4ca4574a4809d4620, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.5
+    second: {fileID: 2100000, guid: 120126b8d557e814b99ddcd0b41de5f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.53
+    second: {fileID: 2100000, guid: 6f7f128210be0584cb3c2e667ccb1d61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.55
+    second: {fileID: 2100000, guid: ed9a60fc84b22bb42afc72f95523f16b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.57
+    second: {fileID: 2100000, guid: 5e4de8ca3eb1c004eb54156aee47e0fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.59
+    second: {fileID: 2100000, guid: d0a28cb231b293d458542d84dce104c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.61
+    second: {fileID: 2100000, guid: 9f2aeccbdbd901b4e94b3ca0e4ad91f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.63
+    second: {fileID: 2100000, guid: 8c5404d310066e74c9b547145634a6fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.65
+    second: {fileID: 2100000, guid: 8333f472241943640ad0d23c71f33e8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.8
+    second: {fileID: 2100000, guid: ffdeae30e80438d499c0c6bf60a25afc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard.9
+    second: {fileID: 2100000, guid: ce600c080024b0a44b3fe35a4b7b86bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: 7d1b6b89429b3384b9dadefbf87916d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.1
+    second: {fileID: 2100000, guid: ef22bd93dac5e804abad5ac887371773, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.2
+    second: {fileID: 2100000, guid: 1bc6b053eb3a6254d8f0437ab6019bea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.3
+    second: {fileID: 2100000, guid: 1cd68c284a0626c449c3324b58c8f4c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.4
+    second: {fileID: 2100000, guid: 22091b9723d24aa4198e2b48a61a7950, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monitor
+    second: {fileID: 2100000, guid: 33fa8b1a950c0d943b634213b80595d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monitor.10
+    second: {fileID: 2100000, guid: 5694c2c99b9538e47a181597c51a4118, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monitor.12
+    second: {fileID: 2100000, guid: c69ea7f8f7b46914a96ee6754901ce33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monitor.14
+    second: {fileID: 2100000, guid: 7a77a4b51489e7f4bb08b569f09cb76e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monitor.2
+    second: {fileID: 2100000, guid: 4200c106dbdb8a343a95e71f271e4f57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monitor.4
+    second: {fileID: 2100000, guid: ad40ca67a97f3bb4f85179a50be95d5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monitor.6
+    second: {fileID: 2100000, guid: 9a2fa7a3988cc9842a3ffa87715d6744, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monitor.8
+    second: {fileID: 2100000, guid: f2a5024babe93254baad880fe2057714, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monitor_Light
+    second: {fileID: 2100000, guid: 45ff74c3e7bd72b4087fc65eebce3020, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: b196243f7ff935e418779368deb88265, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_parquet_16
+    second: {fileID: 2100000, guid: b119ee4f0c903cd43b21628f4068dd42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_parquet_16.1
+    second: {fileID: 2100000, guid: 24152b78c7085cb40882440e192cc077, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_parquet_16.2
+    second: {fileID: 2100000, guid: 4d2a899cfccc1904c8705ab94d35fef8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_parquet_16.3
+    second: {fileID: 2100000, guid: 08fd5a4a26173154da7d86a9a2abb079, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_parquet_16.4
+    second: {fileID: 2100000, guid: 480f2912f39e89c41b6cc56bf1b4f511, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_parquet_16.5
+    second: {fileID: 2100000, guid: 521ed3b532925104ca13edb3c8a923e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_parquet_16.6
+    second: {fileID: 2100000, guid: 4cd811f447574e54d97a8556ade318ca, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Key_Base_Color
+    second: {fileID: 2800000, guid: 44529ba5ffb413947b88667a1333c721, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Key_Normal_OpenGL
+    second: {fileID: 2800000, guid: 6f433f2373eb55747a97c88655a735f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Keyboard_Base_Color
+    second: {fileID: 2800000, guid: 22825dd88597c1549bc0e3cfb367c785, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Keyboard_Normal_OpenGL
+    second: {fileID: 2800000, guid: f82ef7a9a615cf24685e74d36b092062, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Monitor_C
+    second: {fileID: 2800000, guid: 5f4dc7f21ede0d944a00c7cc81268ac5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Monitor_N
+    second: {fileID: 2800000, guid: 089d9cf3b6b70264891f177103f3ce53, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_parquet_16_basecolor
+    second: {fileID: 2800000, guid: 1debdfaf3b2c75f4f9ff5bbbc1442f4b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_parquet_16_normal
+    second: {fileID: 2800000, guid: b0b23078811bc70458e825704af2a716, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
